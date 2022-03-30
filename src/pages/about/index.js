@@ -56,21 +56,21 @@ function About() {
         <h2>Hunain Chaudhry </h2>
         <p className="title">Game Developer<br/>
         Hunain is a talented game developer that has designed multiple games in the past. Hunain is experienced in languages such as C Sharp and Java. Hunain currently studies Computer Science at Aston University<br/>
-         Hunain@example.com</p>
+         Hunain@placeholder.com</p>
         <p><button className="button">Contact</button></p></div>
 		
 		<div className="container">
         <h2>Ali Abdalrahman </h2>
         <p className="title">Game Developer<br/>
-        Some text that describes me lorem ipsum ipsum lorem.<br/>
-         bob@example.com</p>
+        Ali is a skilled game developer that has designed multiple games in the past, which has enabled him to overcome any problem. Ali is experienced in languages Java and C Sharp. Ali is currently a BSc computer science student at Aston university.<br/>
+         ali@placeholder.com</p>
         <p><button className="button">Contact</button></p></div>
 		
 		<div className="container">
         <h2>Adnan Ghelle </h2>
-        <p className="title">Game Developer<br/>
-        Some text that describes me lorem ipsum ipsum lorem.<br/>
-         bob@example.com</p>
+        <p className="title">Web Developer<br/>
+        Adnan is a web developer that has designed several websites using languages HTML, CSS and Java which has enabled him to improve his technical skills. Adnan is currently a BSc computer science student at Aston university.<br/>
+         Adnan@placeholder.com</p>
         <p><button className="button">Contact</button></p></div>
 		
 
